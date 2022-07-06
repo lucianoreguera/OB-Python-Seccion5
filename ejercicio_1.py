@@ -1,5 +1,3 @@
-from curses.ascii import alt
-
 from math import pi
 
 def area_trinagulo(base, altura):
